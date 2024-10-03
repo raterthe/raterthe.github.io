@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raterthe.github.io/sitemap.html.gz
+Sitemap: https://raterthe.github.io/app/sitemap.html.gz
+Sitemap: https://raterthe.github.io/assets/sitemap.html.gz
+Sitemap: https://raterthe.github.io/css/sitemap.html.gz
+Sitemap: https://raterthe.github.io/data/sitemap.html.gz
+Sitemap: https://raterthe.github.io/includes/sitemap.html.gz
+Sitemap: https://raterthe.github.io/item/sitemap.html.gz
+Sitemap: https://raterthe.github.io/src/sitemap.html.gz
